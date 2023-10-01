@@ -45,7 +45,7 @@ Sinta-se à vontade para contribuir para este projeto, reportar problemas ou sug
 
 Este projeto está sob a [Licença MIT](LICENSE).
 
-## Logo abaixo deixei o Readme próprio do Vite para auxiliar quem tem interesse e saber mais sobre.
+## Logo abaixo deixei o Readme próprio do Vite para auxiliar a quem tem interesse em saber mais sobre o mesmo.
 
 # React + TypeScript + Vite
 
